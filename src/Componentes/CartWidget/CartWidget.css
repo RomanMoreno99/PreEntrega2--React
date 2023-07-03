@@ -1,0 +1,9 @@
+.imgCarrito {
+    width: 4rem;
+}
+strong {
+    background-color: #cbd2f3;
+    display: flex;
+    margin-right: 15px;
+    cursor: pointer;
+}
