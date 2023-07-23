@@ -3,7 +3,7 @@ import './ItemList.css'
 
 const ItemList = ({productos}) => {
   return (
-    <div className="contenedorProducto">
+    <div className="contenedorProductos">
         {productos.map(prod => <Item key={prod.id} {...prod} />)}
     </div>
   )

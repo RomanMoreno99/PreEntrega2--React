@@ -1,7 +1,5 @@
-.contenedorProducto{
+.contenedorProductos {
     display: flex;
     flex-wrap: wrap;
-}
-div{
-    width: 100%;
+    justify-content: center;
 }
